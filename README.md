@@ -6,6 +6,3 @@ Shradha Khapra
 
 # Student
 Eiman Nazir
-
-# Topic
-Git & Github
